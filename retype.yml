@@ -1,0 +1,15 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Link shortener
+  label: Wiki
+  logo: assets/images/logo.png
+favicon: assets/images/logo.png
+links:
+- text: Buy it
+  icon: builtbybit.png
+  link: https://builtbybit.com/resources/link-shortener.30465/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+poweredByRetype: false

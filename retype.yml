@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: itzandriss.github.io/link-shortener/
 branding:
   title: Link shortener
   label: Wiki
@@ -12,4 +12,3 @@ links:
   link: https://builtbybit.com/resources/link-shortener.30465/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
-poweredByRetype: false

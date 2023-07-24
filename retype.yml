@@ -1,5 +1,5 @@
 input: .
-output: build
+output: .retype
 url: itzandriss.github.io
 branding:
   title: Link shortener
